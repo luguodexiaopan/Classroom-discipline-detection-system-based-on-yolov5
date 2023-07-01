@@ -1,0 +1,5 @@
+train: data/images/cell_phone/images/train
+val: data/images/cell_phone/images/val
+test: data/images/cell_phone/images/test
+nc: 1
+names: ['cell phone']
